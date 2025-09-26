@@ -7,7 +7,7 @@ This is a Next.js web application that uses Google's Gemini AI to interpret mood
 - Node.js 18+ installed
 - Spotify Developer Account
 - Google AI Studio Account (for Gemini API)
-- Z.ai Web Dev SDK (already installed)
+
 
 ## Setup Instructions
 
